@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tonal-bank-321005",
+  "private_key_id": "a8ca4796e0e1a9d303458153d81f5a0c4c1c2b41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHWQZdxxb6/MS/\njvKVYM0/cL130YapP4iL5rT3XsyphxC3KpGaoHY5Y4D4qPpl0aupy3yEEWkYsiMI\n6pOBbQVnPn7B1chydZr7Du3E9uN094Owzg1X0zVYX8S9JWw7PXZdu7nfgDbz7qNA\nnOvuyJYKTvVHGMLeZE9Zq7+KsjsLgfEka+H68kRJI7BiN5Z8tfVPPfiOGHIX6A4t\nylkHI7iKX9Il+BCZ1taXsV6E+bxOh9iYfCvx2trbS834RoUzIfBa2hLUVq/VQfmc\n2suX5bEUkLW+Lkn/Ty0Elw5C+rueVO43VbAEdSCqGbHydKuYL52XN45a0MhSy0x7\naGPlPYMhAgMBAAECggEAMBAVydxrfP4ejbTwZfWd5tLOy6m31uybhmeMcCvqGmGX\nNSJNUsOnXXTRLqLHJG9l/R0zmz/7X9nrOoYcJFNdvyPBOgjKOFaElE1oJFoGQzg+\nBw3XB7rDnNgSPixcqPfLpxPQ38Mw/KUntTdgZwTzr+6Tkp20thvnSc5v8we/1qkD\nO1d+N18GQZ15OxjgJnAuLMVcaqGl5yHlxWiteb8H0kjkIW4H+oAXeR7dpnAOHBJ0\nhxJ8aPdkrdeUWHBXTzZ6UZzTiQyiaNSs4bkOI1HlC9bYGjBf6GhpdA+UWAu5YvVr\nQMhBV6goPmSLsYs2lcnLLgAXEKdY0iT4jrd+wQjjJQKBgQD5fxBRwNcAIYyyoerH\nWZQOWz/Q9eDwkn24xLaipOHqpnyYkJrIUii8XJRD2WjvdKzMP5pRcW8dbZ0qQ9Qs\neZkoebrbbYLHGMM2hi8FP+PoQvpjDsFq4eCSGWE1RKfIrCcopRVpUfCitjLKEWiY\n+TzM3B7AMGUM7ghaedERcrkUvwKBgQDMi09jE1k+Nuu6Qz0nizSfBOooski0Cn9t\n94u4B42FWdbXGwILiC1ZemhQtqb4oBq13wfOS2mn3ET8hW9ady0nE/W8+AoDxOLc\nEJixEKvUW8WI/f6u+9t7RQPHRmtsJ5UFQZNW2gZhjw0PFdVLGWz9zojKAY3P8gJ1\nxzM0kCwAHwKBgQCQRaqhK7rn536duUWzOxiDaL6xTc1iL8OleZMG4AOHlfhMnKn0\nlpXZvks6JNkqRrS5czoASHDxenY8f3aMtVAceK/VvTC3gpk3yUYdagGXSEvTxi+Q\nZ8ddlHGCxQ2k2+/U8Ak+mtRksqkR8hkjBFTlPZBGoHV+kZKhBvofddCSrwKBgFWZ\n26BoAYoy69You5gn/t6p7OEZM6n9VrULyzI6HvT20x10lReEZw4yVyOoPRqBzovc\nieTA1LfGTCyuHxrqE0BubwIlf/Nx20sjuvMnOfIGchXRzlsm1gSxrlIgW2aI7imj\n9uh7F/6OInX0ui3StzVE0SRRICstafAmbHyL9Y4bAoGATA02Q2GeuPAXIcS75yyn\ndLK9fBplc05sBIkluhMlYfdAdI5V9QiJazVH7lhh0R/rJp36FgKNAfMW98s+mjye\ngeBmI9bseeVjjUuWY63lUuqnPLfEQx3HnpXb8RNrxDu4gQksviJZiRDV4gleHEiy\n7RMhtsjBb3s9V+LXFoBE6sg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-r7f8ko6-o67kxrvk5hut7trui4@tonal-bank-321005.iam.gserviceaccount.com",
+  "client_id": "101902728779176682812",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-r7f8ko6-o67kxrvk5hut7trui4%40tonal-bank-321005.iam.gserviceaccount.com"
+}
